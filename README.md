@@ -11,7 +11,7 @@
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
-- [Conclusion](#conclusions)
+- [Conclusion](#conclusion)
 
 ## Project Overview
 ### This project utilizes a publicly available dataset of 12 million Amazon product reviews to conduct a robust, data-driven analysis of e-commerce performance. The primary goal is to deliver actionable strategic recommendations regarding product quality, customer satisfaction, and the effectiveness of current pricing and discounting strategies. This analysis is presented through an interactive Power BI dashboard for executive consumption
