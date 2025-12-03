@@ -9,7 +9,7 @@
 - [Data Cleaning Summary](#data-cleaning-summary)
 - [Executive Summary](#executive-summary)
 - [Insights](#insights)
-- [Recommendations](#recommendations)
+- [Recommendation](#recommendation)
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
 
